@@ -4,7 +4,7 @@
 //Instagram: Prexzy.ay
 //Telegram: t.me/Prexzyvilla_tech
 //GitHub: @Prexzybooster
-//WhatsApp: +2347063956321
+//WhatsApp: +243823661981
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@prexzyvilla
 
 const fs = require('fs')
@@ -16,19 +16,19 @@ global.socialm = "GitHub: Prexzybooster" //ur github or insta name
 global.location = "Nigeria, Osun, Osogbo" //ur location
 
 //new
-global.botname = 'QUEEN-PRIYA-V1👑' //ur bot name
-global.ownernumber = '2347063956321' //ur owner number
-global.ownername = 'Precious Ayomide👑' //ur owner name
+global.botname = 'KAYA' //ur bot name
+global.ownernumber = '243823661981' //ur owner number
+global.ownername = 'KAYA' //ur owner name
 global.websitex = "https://youtube.com/@prexzyvilla"
-global.wagc = "https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04"
+global.wagc = "https://whatsapp.com/channel/0029VaiPkRPLY6d0qEX50e2k"
 global.themeemoji = '🪀'
 global.wm = "Prexzyvilla."
 global.botscript = 'https://github.com/Prexzybooster/QUEEN-PRIYA-V1' //script link
-global.packname = "Sticker By Prexzy"
-global.author = "Prexzy👑\n\n+2347063956321"
-global.creator = "2347063956321@s.whatsapp.net"
+global.packname = "Sticker By KAYA"
+global.author = "KAYA👑\n\n+243823661981"
+global.creator = "243823661981@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2347063956321"] // Premium User
+global.premium = ["243823661981"] // Premium User
 global.hituet = 0
 
 //bot sett
